@@ -1,0 +1,118 @@
+~$ ./a.out
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 1
+Enter student ID: 5676
+Enter student name: aryan
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 1
+Enter student ID: 5676
+Enter student name: sireesha
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 1
+Enter student ID: 5678
+Enter student name: abhinav
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 1
+Enter student ID: 5705
+Enter student name: shreyash
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 5
+
+Students in BST:
+ID: 5676, Name: aryan
+ID: 5678, Name: abhinav
+ID: 5705, Name: shreyash
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 4
+Enter student name: aryan
+
+Students with name aryan in BST:
+ID: 5676, Name: aryan
+
+Students with name aryan in Linked List:
+ID: 5676, Name: aryan
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 2
+Enter student ID: 5678
+Enter student name: abhinav
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 6        
+
+Students in Linked List:
+ID: 5705, Name: shreyash
+ID: 5676, Name: sireesha
+ID: 5676, Name: aryan
+
+Menu:
+1. Add student
+2. Delete student
+3. Search student by ID and name
+4. Search students by name
+5. Display all students (BST)
+6. Display all students (Linked List)
+7. Exit
+Enter your choice: 7
